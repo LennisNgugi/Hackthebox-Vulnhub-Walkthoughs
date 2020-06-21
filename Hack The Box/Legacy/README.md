@@ -1,4 +1,4 @@
-# Legacy Walkthrough 
+# Legacy: Walkthrough 
 
 ## Legacy Nmap Scan
 
