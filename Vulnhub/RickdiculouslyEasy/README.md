@@ -1,4 +1,4 @@
-# RickdiculouslyEasy Walkthrough 
+# RickdiculouslyEasy: Walkthrough 
 
 ```
 More detailed descriptions to be added soon 
