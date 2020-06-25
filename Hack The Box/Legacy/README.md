@@ -18,9 +18,7 @@ exploit
 >cd \john\Desktop
 >cat \user.txt
 >cd
->cd Administrator 
->ls
->cd Desktop
+>cd \Administrator\Desktop 
 >ls
 >cat root.txt
 ```
